@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hey, ich bin Marv!
 
-<!--
-**MarvCoding07/MarvCoding07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Willkommen auf meinem GitHub-Profil!  
+Ich bin ein angehender ICT-Fachmann aus der Schweiz und liebe alles rund um **IT, Softwareentwicklung, Netzwerke und Security**.  
+Aktuell arbeite ich an verschiedenen Projekten in C#, SQL und Infrastrukturautomatisierung.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Über mich
+- 🎓 In Ausbildung zum **ICT Fachmann EFZ**
+- 🎯 Interesse an **System Engineering & Softwareentwicklung**
+- 💻 Erfahrung mit **C#, HTML/CSS/**
+- 🌐 Begeistert von **Proxmox, OPNsense, Unifi, Windows Server & Linux**
+- 🔥 Privat: **Feuerwehr**, Armbrust-Schiessen, IT-Projekte
+
+---
+
+## 🛠️ Technologien & Tools
+
+### **Sprachen am lernen**
+- C# • SQL
+
+### **Dev & Infrastruktur**
+- Proxmox • Docker • Git  
+- Windows Server • Active Directory • DNS/DHCP  
+- OPNsense • Unifi Controller • Nginx Proxy Manager
+
+---
+
+## 📫 Kontakt
+Wenn du an einem Projekt interessiert bist oder einfach quatschen willst:
+
+**📧 E-Mail:** marvin@mar-vin.ch  
+**🌐 Website:** marvinschneider.com
