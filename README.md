@@ -21,9 +21,8 @@ Aktuell arbeite ich an verschiedenen Projekten in C#, SQL und Infrastrukturautom
 - C# • SQL
 
 ### **Dev & Infrastruktur**
-- Proxmox • Docker • Git  
-- Windows Server • Active Directory • DNS/DHCP  
-- OPNsense • Unifi Controller • Nginx Proxy Manager
+- Proxmox • Docker • 
+- OPNsense
 
 ---
 
