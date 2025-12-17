@@ -30,4 +30,4 @@ Aktuell arbeite ich an verschiedenen Projekten in C#, SQL und Infrastrukturautom
 Wenn du an einem Projekt interessiert bist oder einfach quatschen willst:
 
 **📧 E-Mail:** marvin@mar-vin.ch  
-**🌐 Website:** marvinschneider.com
+**🌐 Website:** marvinschneider.ch
