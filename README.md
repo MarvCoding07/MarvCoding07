@@ -35,6 +35,6 @@ Aktuell lerne ich **Fullstack Web Development** und arbeite an verschiedenen Pro
 
 Wenn du an einem Projekt interessiert bist oder einfach quatschen willst:
 
-**📧 E-Mail:** marvin@mar-vin.ch  
+**📧 E-Mail:** marvin@marv.cloud
 **🌐 Website:** marvinschneider.ch
 
