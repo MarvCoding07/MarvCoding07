@@ -1,6 +1,6 @@
 # Hi 👋, I'm Marvin Max
 
-### A passionate developer from around the world
+### A passionate Hobby developer from Switzerland
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Marv404&label=Profile views&color=0e75b6&style=flat" alt="Marv404" /> </p>
 
