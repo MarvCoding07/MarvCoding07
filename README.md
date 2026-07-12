@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🌱 &nbsp;I'm currently learning **learn C#/.NET**  
+🌱 &nbsp;I'm currently learning **WebDev**  
 👯 &nbsp;I'm looking to collaborate on **open-source Software and learning projects**  
 💬 &nbsp;Ask me about **SQL**  
 😄 &nbsp;Pronouns: **he/him**  
